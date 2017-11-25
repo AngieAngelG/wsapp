@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
@@ -72,3 +73,7 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 # Appwebservice
 appwebservice
 
+=======
+# wsapp
+Web Service App
+>>>>>>> origin/master
